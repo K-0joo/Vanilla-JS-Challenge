@@ -1,13 +1,13 @@
 # Vanilla JS Challenge
 
-# Purpose
--
-Normard Code 2 Weeks Challenge
+</br>
+
+## Purpose
+- Normard Code 2 Weeks Challenge
 
 </br>
 
-# Progress
--
+## Progress
 
 | No. | Content | Check Finish |
 |---|---|---|
