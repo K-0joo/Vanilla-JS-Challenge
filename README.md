@@ -1,7 +1,3 @@
-# Vanilla JS Challenge
-
-</br>
-
 ## Purpose
 - Normard Code 2 Weeks Challenge
 
